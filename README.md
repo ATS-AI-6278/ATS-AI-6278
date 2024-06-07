@@ -20,14 +20,10 @@
 - ✍️ I once aspired to be a writer, but **reality led me to delve into technology 💻**.
 
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stufs:**
 
-- 🎓 I'm currently a student at **JSU**.
-- 💻 Majoring in **Computer Science and Technology**.
-- 🌱 Currently diving into **Web development and English**. 
-- 🤔 My hobbies include **playing chess and running**.
-- 🧠 I have a tendency towards **obsessive-compulsive disorder**.
-- 💬 Feel free to **ask me anything**.
+- 🎓 I'm currently a student at **Ramco Institute of Technology**.
+- 🌱 Currently diving into **Deep Learning and Computer Vision**. 
 
 **Languages and Tools:**  
 
