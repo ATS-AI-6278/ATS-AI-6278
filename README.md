@@ -13,12 +13,12 @@
 <br />
 <br />
 
-- 👨‍💻 I'm a **Programming Enthusiast**.
+- 👨‍💻 I'm an **AI Enthusiast**.
+- 🎓 I'm studying **Bachelor of Technology** specialized in **Artificial Intelligence and Data Science**.
 - 💼 I like to utilize various **computer software** and create **beautiful blogs**.
-- 📚 I'm also fond of **literature, reading, and writing**.
+- 📚 I'm also fond of **reading, writing, and star gazing**.
 - ✍️ I once aspired to be a writer, but **reality led me to delve into technology 💻**.
-- 💡 That's how I stumbled upon **programming**.
-- 🌱 Fortunately, what started as **lack of interest** eventually turned into **passion ❤️**.
+
 
 **Talking about Personal Stuffs:**
 
