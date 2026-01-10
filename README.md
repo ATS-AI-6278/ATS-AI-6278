@@ -24,17 +24,23 @@
 
 #### 🔹 Programming & Core Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
 </p>
+
+---
 
 #### 🔹 Data Analysis & Scientific Computing
 <p align="left">
   <img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter" />
 </p>
 
+---
+
 #### 🔹 LLMs & Generative AI
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=huggingface,langchain,chroma" />
+  <img src="https://skillicons.dev/icons?i=huggingface" />
+  <img src="https://img.shields.io/badge/LangChain-121D33?style=flat&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-4A4A4A?style=flat" />
 </p>
 
 <sub>Experience with embeddings, RAG pipelines, prompt engineering, and LLM orchestration</sub>
@@ -43,7 +49,9 @@
 
 #### 🔹 Computer Vision
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=opencv,yolo,mediapipe" />
+  <img src="https://skillicons.dev/icons?i=opencv" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=opencv&logoColor=black" />
+  <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat&logo=google&logoColor=white" />
 </p>
 
 ---
