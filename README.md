@@ -29,13 +29,6 @@
 
 ---
 
-#### 🔹 Data Analysis & Scientific Computing
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter" />
-</p>
-
----
-
 #### 🔹 LLMs & Generative AI
 <p align="left">
   <img src="https://skillicons.dev/icons?i=huggingface" />
