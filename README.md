@@ -48,4 +48,4 @@
 
 ## 📫 Contact
 - 📧 **arumugatamilselvan@gmail.com**
-- ✍️ https://medium.com/@arumugatamilselvan
+- ✍️ https://www.linkedin.com/in/ats6278/
