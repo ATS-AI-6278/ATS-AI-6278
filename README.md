@@ -1,56 +1,55 @@
-### Hey there! 👋 I'm Arumuga Tamil Selvan.
+<h1 align="center">Hi 👋, I'm Arumuga Tamil Selvan</h1>
+<h3 align="center">AI & Data Science Engineer in the Making</h3>
 
-<a href="https://medium.com/@arumugatamilselvan">
-  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
-</a>
-<a href="mailto:arumugatamilselvan@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
-</a>
-<a href="https://github.com/ATS-AI-6278">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ATS-AI-6278&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
-<br />
-<br />
+---
 
-- 👨‍💻 I'm an **AI Enthusiast**.
-- 🎓 I'm studying **Bachelor of Technology** specialized in **Artificial Intelligence and Data Science**.
-- 📚 I'm also fond of **reading, writing, and star gazing**.
-- ✍️ I once aspired to be a writer, but **reality led me to delve into technology 💻**.
+## 🧠 About Me
+- 🎓 B.Tech student specializing in **Artificial Intelligence & Data Science**
+- 🤖 Strong interest in **AI, Machine Learning, Deep Learning**
+- 🧩 Currently exploring **Computer Vision, NLP, and LLMs**
+- 🚀 Passionate about building **real-world AI systems**
+- 📌 Long-term goal: **AI / ML Engineer**
 
+---
 
-**Talking about Personal Stufs:**
+## 🔬 Current Focus Areas
+- Deep Learning (CNNs, Transfer Learning)
+- Computer Vision (Image Classification, Detection)
+- NLP & LLM fundamentals
+- Python for AI & Data Science
+- Model experimentation & optimization
 
-- 🎓 I'm currently a student at **Ramco Institute of Technology**.
-- 🌱 Currently diving into **Deep Learning and Computer Vision**. 
+---
 
-**Languages and Tools:**  
+## 🛠️ AI / DS Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,numpy,pandas,linux,git,github" />
+</p>
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sublimetext.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pycharm.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
+---
 
-**Technologies I'm Learning:**
+## 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ATS-AI-6278&show_icons=true&theme=radical" />
+</p>
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/django.svg"></code>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ATS-AI-6278&theme=radical" />
+</p>
 
-**Favorite Sites:**
+---
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/google.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/steam.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/freecodecamp.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
+## 📚 What I Believe In
+> *"Strong fundamentals + consistent practice = real AI engineering."*
 
+I focus on **learning deeply**, building projects, and improving step by step.
 
-Feel free to let me know if you need further adjustments!
+---
+
+## 📫 Connect With Me
+- 📧 Email: **arumugatamilselvan@gmail.com**
+- ✍️ Medium: https://medium.com/@arumugatamilselvan
