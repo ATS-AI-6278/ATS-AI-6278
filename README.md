@@ -7,29 +7,20 @@
 
 ---
 
-## 🧠 Who Am I?
-I am an **AI & Data Science engineering student** focused on building **practical, reproducible, and scalable AI systems**.
-
-My learning philosophy is simple:
-> **Understand fundamentals → Build → Fail → Optimize → Repeat**
+## 🧠 About Me
+- 🎓 B.Tech in **Artificial Intelligence & Data Science**
+- 🤖 Focused on **Machine Learning & Deep Learning**
+- 🧩 Exploring **Computer Vision, NLP, and LLM foundations**
+- 🚀 Building practical, experiment-driven AI projects
 
 ---
 
-## 🎯 Core AI Interests
-- Machine Learning & Statistical Learning
+## 🎯 Core AI Focus
+- Machine Learning Algorithms
 - Deep Learning (CNNs, Transfer Learning)
-- Computer Vision (Classification, Detection)
-- NLP & LLM Foundations
-- AI Model Evaluation & Optimization
-
----
-
-## 🔬 What I’m Actively Working On
-- Implementing ML algorithms **from scratch**
-- Training deep learning models using **PyTorch / TensorFlow**
-- Building end-to-end AI pipelines
-- Improving dataset handling & experimentation
-- Converting notebooks → structured repositories
+- Computer Vision
+- NLP & LLM Fundamentals
+- Model Training & Evaluation
 
 ---
 
@@ -41,6 +32,7 @@ My learning philosophy is simple:
 ---
 
 ## 📊 GitHub Activity & Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ATS-AI-6278&show_icons=true&theme=radical&hide_border=true" />
 </p>
@@ -55,15 +47,6 @@ My learning philosophy is simple:
 
 ---
 
-## 🧪 Engineering Mindset
-- No fake commits
-- No copy-paste projects
-- Clean experiments
-- Reproducible results
-- Continuous improvement
-
----
-
-## 📫 Contact
-- 📧 Email: arumugatamilselvan@gmail.com  
+## 📫 Connect
+- 📧 Email: **arumugatamilselvan@gmail.com**
 - ✍️ Medium: https://medium.com/@arumugatamilselvan
