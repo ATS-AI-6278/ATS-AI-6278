@@ -1,55 +1,69 @@
-<h1 align="center">Hi 👋, I'm Arumuga Tamil Selvan</h1>
-<h3 align="center">AI & Data Science Engineer in the Making</h3>
+<h1 align="center">Arumuga Tamil Selvan</h1>
+<h3 align="center">Artificial Intelligence & Data Science Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ATS-AI-6278&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ATS-AI-6278&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🧠 About Me
-- 🎓 B.Tech student specializing in **Artificial Intelligence & Data Science**
-- 🤖 Strong interest in **AI, Machine Learning, Deep Learning**
-- 🧩 Currently exploring **Computer Vision, NLP, and LLMs**
-- 🚀 Passionate about building **real-world AI systems**
-- 📌 Long-term goal: **AI / ML Engineer**
+## 🧠 Who Am I?
+I am an **AI & Data Science engineering student** focused on building **practical, reproducible, and scalable AI systems**.
+
+My learning philosophy is simple:
+> **Understand fundamentals → Build → Fail → Optimize → Repeat**
 
 ---
 
-## 🔬 Current Focus Areas
+## 🎯 Core AI Interests
+- Machine Learning & Statistical Learning
 - Deep Learning (CNNs, Transfer Learning)
-- Computer Vision (Image Classification, Detection)
-- NLP & LLM fundamentals
-- Python for AI & Data Science
-- Model experimentation & optimization
+- Computer Vision (Classification, Detection)
+- NLP & LLM Foundations
+- AI Model Evaluation & Optimization
 
 ---
 
-## 🛠️ AI / DS Tech Stack
-<p>
+## 🔬 What I’m Actively Working On
+- Implementing ML algorithms **from scratch**
+- Training deep learning models using **PyTorch / TensorFlow**
+- Building end-to-end AI pipelines
+- Improving dataset handling & experimentation
+- Converting notebooks → structured repositories
+
+---
+
+## 🛠️ AI / Data Science Tech Stack
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,numpy,pandas,linux,git,github" />
 </p>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ATS-AI-6278&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ATS-AI-6278&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ATS-AI-6278&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=ATS-AI-6278&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATS-AI-6278&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 📚 What I Believe In
-> *"Strong fundamentals + consistent practice = real AI engineering."*
-
-I focus on **learning deeply**, building projects, and improving step by step.
+## 🧪 Engineering Mindset
+- No fake commits
+- No copy-paste projects
+- Clean experiments
+- Reproducible results
+- Continuous improvement
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: **arumugatamilselvan@gmail.com**
+## 📫 Contact
+- 📧 Email: arumugatamilselvan@gmail.com  
 - ✍️ Medium: https://medium.com/@arumugatamilselvan
