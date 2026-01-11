@@ -7,71 +7,82 @@
 
 ---
 
-###  About Me
+##  About Me
 -  B.Tech in **Artificial Intelligence & Data Science**
--  Focused on **Machine Learning, Deep Learning & Generative AI**
--  Working on **Computer Vision, NLP, LLMs, and RAG pipelines**
--  Building **production-ready, experiment-driven AI systems**
+-  AI Engineer focused on **designing, training, optimizing, and deploying intelligent systems**
+-  Hands-on experience with **Computer Vision, NLP, LLMs, and Retrieval-Augmented Generation (RAG), AI Agents**
+-  Passionate about **scalable, production-grade AI pipelines**, not just models
+-  Strong belief in **experiment-driven development & performance optimization**
 
 ---
 
 ###  Core AI Expertise
-`Machine Learning` · `Deep Learning` · `Large Language Models` · `Computer Vision` · `NLP` · `RAG Systems` · `Model Deployment`
+`Machine Learning` · `Deep Learning` · `Large Language Models` · `Computer Vision` · `NLP` · `RAG Systems` · `Model Deployment` · `Agentic AI` 
 
 ---
 
 ### 🛠️ AI / Data Science Stack
 
-#### 🔹 Programming & Core Frameworks
+### 🔹 Programming & Core Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" height="20"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="20"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="20"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="20"/>
   <img src="https://skillicons.dev/icons?i=pytorch" height="20"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" height="20"/>
   <img src="https://skillicons.dev/icons?i=sklearn" height="20"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="20"/>
 </p>
 
 
-#### 🔹 LLMs, RAG & Generative AI
+### 🔹 LLMs, RAG & Generative AI
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-121D33?style=flat&logo=chainlink&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" height="20"/>
+  <img src="https://img.shields.io/badge/vLLM-0B3C5D?style=flat&logo=nvidia&logoColor=white" height="20"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" height="20"/>
   <img src="https://img.shields.io/badge/Qdrant-FF4F8B?style=flat" height="20"/>
+  <img src="https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white" height="20"/>
 </p>
 
-
-#### 🔹 Computer Vision
+### 🔹 Computer Vision
 <p align="left">
   <img src="https://skillicons.dev/icons?i=opencv" height="20"/>
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=opencv&logoColor=black" height="20"/>
   <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat&logo=google&logoColor=white" height="20"/>
 </p>
 
-#### 🔹 Model Serving & APIs
+### 🔹 Model Serving & APIs
 <p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi" height="20"/>
   <img src="https://skillicons.dev/icons?i=flask" height="20"/>
 </p>
 
-#### 🔹 Model Optimization & Acceleration
+### 🔹 Model Optimization & Acceleration
 <p align="left">
   <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white" height="20"/>
   <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white" height="20"/>
+  <img src="https://skillicons.dev/icons?i=onnx" height="20"/>
 </p>
 
-#### 🔹 Distributed Computing & MLOps
+### 🔹 Distributed Systems & MLOps
 <p align="left">
   <img src="https://img.shields.io/badge/Ray-0288D1?style=flat" height="20"/>
   <img src="https://img.shields.io/badge/DeepSpeed-0078D4?style=flat" height="20"/>
 </p>
 
-#### 🔹 DevOps & Deployment
+### 🔹 DevOps & Deployment
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker" height="20"/>
   <img src="https://skillicons.dev/icons?i=kubernetes" height="20"/>
   <img src="https://skillicons.dev/icons?i=linux" height="20"/>
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="20"/>
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white" height="20"/>
 </p>
 
-#### 🔹 Version Control & Collaboration
+### 🔹 Version Control & Collaboration
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" height="20"/>
   <img src="https://skillicons.dev/icons?i=github" height="20"/>
